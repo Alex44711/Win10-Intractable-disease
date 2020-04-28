@@ -7,3 +7,5 @@
 3. **Win-S locally cannot find the applications of green version**  
   Add shortcut to C:\ProgramData\Microsoft\Windows\Start Menu\Programs (startup menu)  
   **Script** shell:Common startup
+4. Change the font of desktop icon
+  http://blog.haoji.me/update-windows-10-font-size.html
