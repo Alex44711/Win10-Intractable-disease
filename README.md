@@ -6,4 +6,5 @@
   Setting->People->Sync and->Manage sync->Disable *open tabs*
 3. **Win-S locally cannot find the applications of green version**  
   Add shortcut to C:\ProgramData\Microsoft\Windows\Start Menu\Programs (startup menu)  
-  **Script** shell:Common startup
+4. **Skype installation location**  
+  Skype-8.34.0.78 /DIR="D:\Programs\Microsoft\Skype for Desktop" command line
